@@ -1,0 +1,9 @@
+C:\Programming\C21\Hospital_Data\bin\Debug\Hospital_Data.dll
+C:\Programming\C21\Hospital_Data\bin\Debug\Hospital_Data.pdb
+C:\Programming\C21\Hospital_Data\bin\Debug\Krypton.Toolkit.dll
+C:\Programming\C21\Hospital_Data\bin\Debug\Krypton.Toolkit.xml
+C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.csproj.AssemblyReference.cache
+C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.csproj.CoreCompileInputs.cache
+C:\Programming\C21\Hospital_Data\obj\Debug\Hospital.0E9D62A3.Up2Date
+C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.dll
+C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.pdb
