@@ -23,7 +23,7 @@ Note: This application needs to run in administrator mode to log errors in the e
 - ADO.NET
 - Three-tier architecture
 
-## 🧑‍💻 Author
+## 👩‍💻 Author
 **Malak Muayad**  
 📧 [malakmuayad15@gmail.com](mailto:malakmuayad15@gmail.com)  
 🔗 [malakmuayad11](https://github.com/malakmuayad11)
