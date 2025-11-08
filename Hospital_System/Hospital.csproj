@@ -163,6 +163,12 @@
     <Compile Include="Main\frmDoctorMainScreen.Designer.cs">
       <DependentUpon>frmDoctorMainScreen.cs</DependentUpon>
     </Compile>
+    <Compile Include="Main\frmManageScreenNoAddButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\frmManageScreenNoAddButton.Designer.cs">
+      <DependentUpon>frmManageScreenNoAddButton.cs</DependentUpon>
+    </Compile>
     <Compile Include="MedicalRecords\ctrlMedicalRecordInfo.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -361,6 +367,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Main\frmDoctorMainScreen.resx">
       <DependentUpon>frmDoctorMainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\frmManageScreenNoAddButton.resx">
+      <DependentUpon>frmManageScreenNoAddButton.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MedicalRecords\ctrlMedicalRecordInfo.resx">
       <DependentUpon>ctrlMedicalRecordInfo.cs</DependentUpon>

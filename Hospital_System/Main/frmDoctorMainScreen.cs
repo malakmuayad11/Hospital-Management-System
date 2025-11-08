@@ -1,5 +1,6 @@
 ﻿using Hospital_Business;
 using Hospital_System.Doctors;
+using Hospital_System.Main;
 using Hospital_System.MedicalRecords;
 using System;
 using System.Data;
@@ -9,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Hospital_System
 {
-    public partial class frmDoctorMainScreen : frmManageScreen
+    public partial class frmDoctorMainScreen : frmManageScreenNoAddButton
     {
         private DataTable _dtTodaysAppointments;
         private clsDoctor _Doctor;

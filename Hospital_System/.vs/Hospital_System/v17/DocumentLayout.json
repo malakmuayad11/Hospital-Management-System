@@ -1,319 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\",
+  "WorkspaceRootPath": "C:\\Programming\\C21\\Hospital_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|c:\\users\\delluser\\hospital_system\\hospital_system\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|c:\\programming\\c21\\hospital_system\\main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmaddeditdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmaddeditdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\ctrldoctorinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\ctrldoctorinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\ctrlpatientinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\ctrlpatientinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\frmmanagepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\frmmanagepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\frmaddeditpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\frmaddeditpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\frmaddeditpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\frmaddeditpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\frmpatienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\frmpatienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\frmpatientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\frmpatientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\prescriptions\\ctrlprescriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:prescriptions\\ctrlprescriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\prescriptions\\frmaddprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:prescriptions\\frmaddprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\prescriptions\\frmprescriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:prescriptions\\frmprescriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\frmchangepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmchangepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\ctrlrequiredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:ctrlrequiredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\ctrlrequiredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:ctrlrequiredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\main\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\main\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\main\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\ctrldoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\ctrldoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmdoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmdoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\ctrldoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\ctrldoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmdoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmdoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmmanagedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmmanagedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmmanagedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmmanagedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\medicalrecords\\frmmedicalrecordinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:medicalrecords\\frmmedicalrecordinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmanagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\medicalrecords\\frmmanagemedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:medicalrecords\\frmmanagemedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmtodaysappointmentsfordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\doctors\\frmtodaysappointmentsfordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmtodaysappointmentsfordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\doctors\\frmtodaysappointmentsfordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:doctors\\frmtodaysappointmentsfordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmanagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\frmmanageconsultations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\frmmanageconsultations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\billings\\frmmanagebillings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:billings\\frmmanagebillings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\billings\\frmmanagebillings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:billings\\frmmanagebillings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\appointments\\frmmanageappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:appointments\\frmmanageappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\billings\\frmbillinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:billings\\frmbillinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\billings\\frmpaybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:billings\\frmpaybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\billings\\frmaddaditionalcharges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:billings\\frmaddaditionalcharges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\billings\\ctrlbillinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:billings\\ctrlbillinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\medicalrecords\\frmmanagemedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:medicalrecords\\frmmanagemedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\patients\\frmpatienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:patients\\frmpatienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\frmmanageconsultations.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\frmmanageconsultations.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\frmmanageconsultations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\frmmanageconsultations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\frmconsultationinfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\frmconsultationinfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\frmconsultationinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\frmconsultationinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\frmconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\frmconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\ctrlconsultationinfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\ctrlconsultationinfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\ctrlconsultationinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\ctrlconsultationinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\consultations\\ctrlconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:consultations\\ctrlconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_System\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_System\\frmManageScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_System\\frmmanagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsDoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_System\\clsGlobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_System\\clsValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsBilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsConsultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsMedicalRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsPatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsPrescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Business\\clsUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsAppointmentData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsBillingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsConsultationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsDoctorData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsLoggerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsMedicalRecordData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsPatientData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsPersonData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsPrescriptionData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsSettingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C21\\Hospital_Data\\clsUserData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -323,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -331,997 +54,109 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmAddEditDoctor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmAddEditDoctor.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmAddEditDoctor.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\frmAddEditDoctor.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Doctors\\frmAddEditDoctor.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmManageScreenNoAddButton.cs",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
+              "RelativeDocumentMoniker": "Main\\frmManageScreenNoAddButton.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
+              "RelativeToolTip": "Main\\frmManageScreenNoAddButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:51:43.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmAddEditAppointment.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
-              "RelativeDocumentMoniker": "Appointments\\frmAddEditAppointment.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Appointments\\frmAddEditAppointment.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Appointments\\frmAddEditAppointment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:42:31.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ctrlPatientInfoWithFilter.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\ctrlPatientInfoWithFilter.cs",
-              "RelativeDocumentMoniker": "Patients\\ctrlPatientInfoWithFilter.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\ctrlPatientInfoWithFilter.cs",
-              "RelativeToolTip": "Patients\\ctrlPatientInfoWithFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:02:03.679Z"
+              "WhenOpened": "2025-11-08T15:16:25.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmChangePassword.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmChangePassword.cs",
-              "RelativeDocumentMoniker": "Users\\frmChangePassword.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmChangePassword.cs [Design]",
-              "RelativeToolTip": "Users\\frmChangePassword.cs [Design]",
+              "Title": "frmManageScreenNoAddButton.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
+              "RelativeDocumentMoniker": "Main\\frmManageScreenNoAddButton.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs [Design]",
+              "RelativeToolTip": "Main\\frmManageScreenNoAddButton.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:41:59.286Z",
+              "WhenOpened": "2025-11-08T15:16:23.751Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmAddEditUser.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmAddEditUser.cs",
-              "RelativeDocumentMoniker": "Users\\frmAddEditUser.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmAddEditUser.cs",
-              "RelativeToolTip": "Users\\frmAddEditUser.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAIwIsAAAARAAAAAAAAAA==",
+              "Title": "frmDoctorMainScreen.cs",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
+              "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
+              "RelativeToolTip": "Main\\frmDoctorMainScreen.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:53:00.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmChangePassword.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmChangePassword.cs",
-              "RelativeDocumentMoniker": "Users\\frmChangePassword.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmChangePassword.cs",
-              "RelativeToolTip": "Users\\frmChangePassword.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:42:00.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T15:15:14.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmAddEditUser.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmAddEditUser.cs",
-              "RelativeDocumentMoniker": "Users\\frmAddEditUser.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Users\\frmAddEditUser.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Users\\frmAddEditUser.cs [Design]",
+              "Title": "frmDoctorMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
+              "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs [Design]",
+              "RelativeToolTip": "Main\\frmDoctorMainScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:17:37.338Z"
+              "WhenOpened": "2025-11-08T15:15:11.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmAddEditAppointment.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
-              "RelativeDocumentMoniker": "Appointments\\frmAddEditAppointment.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
-              "RelativeToolTip": "Appointments\\frmAddEditAppointment.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAzwIcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "frmTodaysAppointmentsForDoctor.cs",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs",
+              "RelativeDocumentMoniker": "Doctors\\frmTodaysAppointmentsForDoctor.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs",
+              "RelativeToolTip": "Doctors\\frmTodaysAppointmentsForDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:42:36.131Z"
+              "WhenOpened": "2025-11-08T15:14:46.269Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ctrlDoctorInfoWithFilter.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfoWithFilter.cs",
-              "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfoWithFilter.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\ctrlDoctorInfoWithFilter.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Doctors\\ctrlDoctorInfoWithFilter.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:45:25.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmAddEditPatient.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmAddEditPatient.cs",
-              "RelativeDocumentMoniker": "Patients\\frmAddEditPatient.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Patients\\frmAddEditPatient.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Patients\\frmAddEditPatient.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:00:42.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "clsDoctor.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsDoctor.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsDoctor.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsDoctor.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsDoctor.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAcwLEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:36:15.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmAddEditPatient.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmAddEditPatient.cs",
-              "RelativeDocumentMoniker": "Patients\\frmAddEditPatient.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmAddEditPatient.cs",
-              "RelativeToolTip": "Patients\\frmAddEditPatient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:00:10.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmPatientHistory.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmPatientHistory.cs",
-              "RelativeDocumentMoniker": "Patients\\frmPatientHistory.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmPatientHistory.cs",
-              "RelativeToolTip": "Patients\\frmPatientHistory.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:58:11.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmPatientInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmPatientInfo.cs",
-              "RelativeDocumentMoniker": "Patients\\frmPatientInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmPatientInfo.cs",
-              "RelativeToolTip": "Patients\\frmPatientInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:57:59.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ctrlPrescriptionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Prescriptions\\ctrlPrescriptionInfo.cs",
-              "RelativeDocumentMoniker": "Prescriptions\\ctrlPrescriptionInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Prescriptions\\ctrlPrescriptionInfo.cs",
-              "RelativeToolTip": "Prescriptions\\ctrlPrescriptionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:57:36.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmAddPrescription.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Prescriptions\\frmAddPrescription.cs",
-              "RelativeDocumentMoniker": "Prescriptions\\frmAddPrescription.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Prescriptions\\frmAddPrescription.cs",
-              "RelativeToolTip": "Prescriptions\\frmAddPrescription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:56:09.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmManagePatients.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmManagePatients.cs",
-              "RelativeDocumentMoniker": "Patients\\frmManagePatients.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Patients\\frmManagePatients.cs*",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Patients\\frmManagePatients.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:14:02.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmPrescriptionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Prescriptions\\frmPrescriptionInfo.cs",
-              "RelativeDocumentMoniker": "Prescriptions\\frmPrescriptionInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Prescriptions\\frmPrescriptionInfo.cs",
-              "RelativeToolTip": "Prescriptions\\frmPrescriptionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:55:59.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ctrlUserInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\ctrlUserInfo.cs",
-              "RelativeDocumentMoniker": "Users\\ctrlUserInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\ctrlUserInfo.cs",
-              "RelativeToolTip": "Users\\ctrlUserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:55:22.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "frmChangePassword.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmChangePassword.Designer.cs",
-              "RelativeDocumentMoniker": "Users\\frmChangePassword.Designer.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmChangePassword.Designer.cs",
-              "RelativeToolTip": "Users\\frmChangePassword.Designer.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAD4v3UAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:51:07.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "frmUserInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmUserInfo.cs",
-              "RelativeDocumentMoniker": "Users\\frmUserInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmUserInfo.cs",
-              "RelativeToolTip": "Users\\frmUserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:40:49.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "clsGlobal.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\clsGlobal.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\clsGlobal.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\clsGlobal.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\clsGlobal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:39:51.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "clsValidation.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\clsValidation.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\clsValidation.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\clsValidation.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\clsValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:39:35.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ctrlRequiredTextBox.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\ctrlRequiredTextBox.cs",
-              "RelativeDocumentMoniker": "ctrlRequiredTextBox.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\ctrlRequiredTextBox.cs",
-              "RelativeToolTip": "ctrlRequiredTextBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:39:16.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ctrlRequiredTextBox.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\ctrlRequiredTextBox.cs",
-              "RelativeDocumentMoniker": "ctrlRequiredTextBox.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\ctrlRequiredTextBox.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\ctrlRequiredTextBox.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:39:14.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:39:05.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "clsAppointment.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsAppointment.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsAppointment.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsAppointment.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsAppointment.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:38:04.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "frmManageUsers.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmManageUsers.cs",
-              "RelativeDocumentMoniker": "Users\\frmManageUsers.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\frmManageUsers.cs",
-              "RelativeToolTip": "Users\\frmManageUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:08:14.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "clsBilling.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsBilling.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsBilling.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsBilling.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsBilling.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:37:28.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "clsConsultation.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsConsultation.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsConsultation.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsConsultation.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsConsultation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:37:04.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "clsLogger.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsLogger.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsLogger.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsLogger.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:36:06.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "clsMedicalRecord.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsMedicalRecord.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsMedicalRecord.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsMedicalRecord.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsMedicalRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:35:35.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "clsPatient.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsPatient.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsPatient.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsPatient.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsPatient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:34:41.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "clsPerson.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsPerson.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsPerson.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsPerson.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsPerson.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAswFMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:34:03.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "clsPrescription.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsPrescription.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsPrescription.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsPrescription.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsPrescription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:33:24.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "clsUser.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsUser.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsUser.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsUser.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsUser.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwIYAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:32:25.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "clsUtil.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Business\\clsUtil.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsUtil.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Business\\clsUtil.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Business\\clsUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:32:17.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "clsAppointmentData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsAppointmentData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsAppointmentData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsAppointmentData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsAppointmentData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:08:03.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "clsBillingData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsBillingData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsBillingData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsBillingData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsBillingData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:08:04.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "clsConsultationData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsConsultationData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsConsultationData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsConsultationData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsConsultationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:07:41.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "clsDoctorData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsDoctorData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsDoctorData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsDoctorData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsDoctorData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:06:42.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "clsLoggerData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsLoggerData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsLoggerData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsLoggerData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsLoggerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:06:30.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "clsMedicalRecordData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsMedicalRecordData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsMedicalRecordData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsMedicalRecordData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsMedicalRecordData.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:05:54.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "clsPatientData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsPatientData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsPatientData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsPatientData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsPatientData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkBAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:04:32.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "clsPersonData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsPersonData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsPersonData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsPersonData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsPersonData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:03:54.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "clsPrescriptionData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsPrescriptionData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsPrescriptionData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsPrescriptionData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsPrescriptionData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:59:35.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "clsSettingData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsSettingData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsSettingData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsSettingData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsSettingData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:59:26.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "clsUserData.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_Data\\clsUserData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsUserData.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_Data\\clsUserData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_Data\\clsUserData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:37:57.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "Main\\frmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmLogin.Designer.cs",
-              "RelativeToolTip": "Main\\frmLogin.Designer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wFcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:27:55.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Main\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmLogin.cs",
-              "RelativeToolTip": "Main\\frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:23:56.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Main\\frmLogin.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmLogin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Main\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:12:08.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ctrlDoctorInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs",
-              "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs",
-              "RelativeToolTip": "Doctors\\ctrlDoctorInfo.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwBkAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T12:22:29.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "frmDoctorInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmDoctorInfo.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmDoctorInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmDoctorInfo.cs",
-              "RelativeToolTip": "Doctors\\frmDoctorInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T12:22:16.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "frmDoctorMainScreen.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
-              "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
-              "RelativeToolTip": "Main\\frmDoctorMainScreen.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:27:46.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "frmManageDoctors.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmManageDoctors.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmManageDoctors.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\frmManageDoctors.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Doctors\\frmManageDoctors.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:10:14.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "frmManageDoctors.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmManageDoctors.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmManageDoctors.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmManageDoctors.cs",
-              "RelativeToolTip": "Doctors\\frmManageDoctors.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAmwEgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:10:22.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ctrlDoctorInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs",
-              "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfo.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:13:32.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "frmDoctorMainScreen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
-              "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:26:20.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "frmDoctorInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmDoctorInfo.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmDoctorInfo.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\frmDoctorInfo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Doctors\\frmDoctorInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:10:14.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "frmMainScreen.cs [Design]",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\frmMainScreen.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\frmMainScreen.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\frmMainScreen.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\frmMainScreen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:35:42.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "frmMedicalRecordInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\MedicalRecords\\frmMedicalRecordInfo.cs",
-              "RelativeDocumentMoniker": "MedicalRecords\\frmMedicalRecordInfo.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\MedicalRecords\\frmMedicalRecordInfo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\MedicalRecords\\frmMedicalRecordInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:17:53.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "frmManageMedicalRecords.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\MedicalRecords\\frmManageMedicalRecords.cs",
-              "RelativeDocumentMoniker": "MedicalRecords\\frmManageMedicalRecords.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\MedicalRecords\\frmManageMedicalRecords.cs",
-              "RelativeToolTip": "MedicalRecords\\frmManageMedicalRecords.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:17:12.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "frmTodaysAppointmentsForDoctor.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmTodaysAppointmentsForDoctor.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs",
-              "RelativeToolTip": "Doctors\\frmTodaysAppointmentsForDoctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:43:50.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "frmTodaysAppointmentsForDoctor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs",
-              "RelativeDocumentMoniker": "Doctors\\frmTodaysAppointmentsForDoctor.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:47:32.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "frmManageConsultations.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmManageConsultations.cs",
-              "RelativeDocumentMoniker": "Consultations\\frmManageConsultations.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmManageConsultations.cs",
-              "RelativeToolTip": "Consultations\\frmManageConsultations.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:48:18.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "frmManageBillings.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\frmManageBillings.cs",
-              "RelativeDocumentMoniker": "Billings\\frmManageBillings.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\frmManageBillings.cs",
-              "RelativeToolTip": "Billings\\frmManageBillings.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:37:31.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "frmManageBillings.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\frmManageBillings.cs",
-              "RelativeDocumentMoniker": "Billings\\frmManageBillings.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Billings\\frmManageBillings.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Billings\\frmManageBillings.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:22:45.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "frmManageAppointments.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmManageAppointments.cs",
-              "RelativeDocumentMoniker": "Appointments\\frmManageAppointments.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmManageAppointments.cs",
-              "RelativeToolTip": "Appointments\\frmManageAppointments.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:37:16.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
               "Title": "frmManageScreen.cs",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\frmManageScreen.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\frmManageScreen.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\frmManageScreen.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\frmManageScreen.cs",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreen.cs",
+              "RelativeDocumentMoniker": "Main\\frmManageScreen.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreen.cs",
+              "RelativeToolTip": "Main\\frmManageScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:36:30.125Z"
+              "WhenOpened": "2025-11-08T15:14:19.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 4,
               "Title": "frmManageScreen.cs [Design]",
-              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\frmManageScreen.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\frmManageScreen.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\frmManageScreen.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\frmManageScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreen.cs",
+              "RelativeDocumentMoniker": "Main\\frmManageScreen.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreen.cs [Design]",
+              "RelativeToolTip": "Main\\frmManageScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:36:28.145Z"
+              "WhenOpened": "2025-11-08T15:14:17.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "frmAddAditionalCharges.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\frmAddAditionalCharges.cs",
-              "RelativeDocumentMoniker": "Billings\\frmAddAditionalCharges.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Billings\\frmAddAditionalCharges.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Billings\\frmAddAditionalCharges.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "frmMainScreen.cs",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "Main\\frmMainScreen.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmMainScreen.cs",
+              "RelativeToolTip": "Main\\frmMainScreen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:22:24.677Z"
+              "WhenOpened": "2025-11-08T15:12:55.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "frmBillingInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\frmBillingInfo.cs",
-              "RelativeDocumentMoniker": "Billings\\frmBillingInfo.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Billings\\frmBillingInfo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Billings\\frmBillingInfo.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "frmMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "Main\\frmMainScreen.cs",
+              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmMainScreen.cs [Design]",
+              "RelativeToolTip": "Main\\frmMainScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:20:50.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "frmPayBilling.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\frmPayBilling.cs",
-              "RelativeDocumentMoniker": "Billings\\frmPayBilling.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Billings\\frmPayBilling.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Billings\\frmPayBilling.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:22:50.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ctrlBillingInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Billings\\ctrlBillingInfo.cs",
-              "RelativeDocumentMoniker": "Billings\\ctrlBillingInfo.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Billings\\ctrlBillingInfo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Billings\\ctrlBillingInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:19:20.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "frmManageMedicalRecords.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\MedicalRecords\\frmManageMedicalRecords.cs",
-              "RelativeDocumentMoniker": "MedicalRecords\\frmManageMedicalRecords.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\MedicalRecords\\frmManageMedicalRecords.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\MedicalRecords\\frmManageMedicalRecords.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:17:11.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "frmPatientHistory.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmPatientHistory.cs",
-              "RelativeDocumentMoniker": "Patients\\frmPatientHistory.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Patients\\frmPatientHistory.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Patients\\frmPatientHistory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:15:13.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "ctrlUserInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Users\\ctrlUserInfo.cs",
-              "RelativeDocumentMoniker": "Users\\ctrlUserInfo.cs",
-              "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Users\\ctrlUserInfo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Programming\\C21\\Hospital_System\\Users\\ctrlUserInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T11:12:10.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "frmManageConsultations.resx",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmManageConsultations.resx",
-              "RelativeDocumentMoniker": "Consultations\\frmManageConsultations.resx",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmManageConsultations.resx",
-              "RelativeToolTip": "Consultations\\frmManageConsultations.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-20T10:48:18.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "frmManageConsultations.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmManageConsultations.Designer.cs",
-              "RelativeDocumentMoniker": "Consultations\\frmManageConsultations.Designer.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmManageConsultations.Designer.cs",
-              "RelativeToolTip": "Consultations\\frmManageConsultations.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:48:18.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "frmConsultationInfo.resx",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmConsultationInfo.resx",
-              "RelativeDocumentMoniker": "Consultations\\frmConsultationInfo.resx",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmConsultationInfo.resx",
-              "RelativeToolTip": "Consultations\\frmConsultationInfo.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-20T10:48:18.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "frmConsultationInfo.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmConsultationInfo.Designer.cs",
-              "RelativeDocumentMoniker": "Consultations\\frmConsultationInfo.Designer.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmConsultationInfo.Designer.cs",
-              "RelativeToolTip": "Consultations\\frmConsultationInfo.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:48:18.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "frmConsultationInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmConsultationInfo.cs",
-              "RelativeDocumentMoniker": "Consultations\\frmConsultationInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\frmConsultationInfo.cs",
-              "RelativeToolTip": "Consultations\\frmConsultationInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:48:18.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ctrlConsultationInfo.resx",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\ctrlConsultationInfo.resx",
-              "RelativeDocumentMoniker": "Consultations\\ctrlConsultationInfo.resx",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\ctrlConsultationInfo.resx",
-              "RelativeToolTip": "Consultations\\ctrlConsultationInfo.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-20T10:48:18.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "ctrlConsultationInfo.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\ctrlConsultationInfo.Designer.cs",
-              "RelativeDocumentMoniker": "Consultations\\ctrlConsultationInfo.Designer.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\ctrlConsultationInfo.Designer.cs",
-              "RelativeToolTip": "Consultations\\ctrlConsultationInfo.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:48:17.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "ctrlConsultationInfo.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\ctrlConsultationInfo.cs",
-              "RelativeDocumentMoniker": "Consultations\\ctrlConsultationInfo.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Consultations\\ctrlConsultationInfo.cs",
-              "RelativeToolTip": "Consultations\\ctrlConsultationInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:48:14.203Z"
+              "WhenOpened": "2025-11-08T15:12:51.767Z"
             }
           ]
         }

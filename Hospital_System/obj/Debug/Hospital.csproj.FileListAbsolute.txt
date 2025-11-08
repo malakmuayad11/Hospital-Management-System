@@ -56,3 +56,4 @@ C:\Programming\C21\Hospital_System\obj\Debug\Hospital_System.Patients.frmPatient
 C:\Programming\C21\Hospital_System\obj\Debug\Hospital_System.Appointments.ctrlAppointmentInfo.resources
 C:\Programming\C21\Hospital_System\obj\Debug\Hospital_System.Appointments.frmAppointmentInfo.resources
 C:\Programming\C21\Hospital_System\obj\Debug\Hospital_System.frmAddEditUser.resources
+C:\Programming\C21\Hospital_System\obj\Debug\Hospital_System.Main.frmManageScreenNoAddButton.resources
