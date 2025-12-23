@@ -23,6 +23,7 @@ Note: This application needs to run in administrator mode to log errors in the e
 - Windows Forms
 - ADO.NET
 - Three-tier architecture
+- smsmode API.
 
 ## 👩‍💻 Author
 **Malak Muayad**  
