@@ -7,6 +7,7 @@ A Windows desktop application built with C# .NET framework, and SQL Server. The 
 - 🔐 User authentication, role-based access, and encrypting sensitive data.
 - 💾 Log errors in the event viewer.
 - 📊 Store and retrieve data from SQL Server.
+- 💬Send appointment confirmation SMS messages using the smsmode API. Note: During development, the integration successfully submits messages and receives tracking IDs, while actual delivery may vary in sandbox environments.
 
 ## ⬇️ Installation
 Note: This application needs to run in administrator mode to log errors in the event viewer.
