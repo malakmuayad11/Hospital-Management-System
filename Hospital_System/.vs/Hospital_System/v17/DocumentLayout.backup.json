@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programming\\C21\\Hospital_System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|c:\\programming\\c21\\hospital_system\\main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmdoctormainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\frmmanagescreennoaddbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Programming\\C21\\Hospital_System\\main\\frmmanagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmManageScreenNoAddButton.cs",
               "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
               "RelativeDocumentMoniker": "Main\\frmManageScreenNoAddButton.cs",
               "ToolTip": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
               "RelativeToolTip": "Main\\frmManageScreenNoAddButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T15:16:25.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmManageScreenNoAddButton.cs [Design]",
               "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
               "RelativeDocumentMoniker": "Main\\frmManageScreenNoAddButton.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmDoctorMainScreen.cs",
               "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmDoctorMainScreen.cs [Design]",
               "DocumentMoniker": "C:\\Programming\\C21\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",

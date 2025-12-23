@@ -7,6 +7,8 @@ namespace Hospital_System.Patients
     public partial class ctrlPatientInfo : UserControl
     {
         public int PatientID {  get => Convert.ToInt32(lblPatientID.Text.Trim()); } 
+
+        public string Phone { get =>lblPhone.Text.Trim(); }
         public class PatientEventArgs : EventArgs
         {
             public bool IsFound { get; set; }
@@ -33,7 +35,7 @@ namespace Hospital_System.Patients
             lblGender.Text = _Patient.Gender == 0 ? "Male" : "Female";
             lblDateOfBirth.Text = _Patient.DateOfBirth.ToString(clsGlobal.DateFormat);
             txtAddress.Text = _Patient.Address;
-            lblEmergencyContact.Text = _Patient.EmergencyContact;
+            lblPhone.Text = _Patient.Phone;
         }
 
         public void LoadPatientInfo(int PatientID)

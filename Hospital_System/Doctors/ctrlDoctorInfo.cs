@@ -10,6 +10,7 @@ namespace Hospital_System.Doctors
         public ctrlDoctorInfo() => InitializeComponent();
 
         public int DoctorID { get => Convert.ToInt32(lblDoctorID.Text.Trim()); }
+        public string DoctorName { get => lblFirstName.Text + " " + lblLastName.Text; }
 
         public class DoctorEventArgs : EventArgs
         {

@@ -9,6 +9,8 @@ namespace Hospital_System.Patients
 
         public int PatientID { get => ctrlPatientInfo1.PatientID; }
 
+        public string Phone { get => ctrlPatientInfo1.Phone; }
+
         public event EventHandler<bool> FindPatient;
 
         public void OnFindPatient(bool IsPatientFound) =>

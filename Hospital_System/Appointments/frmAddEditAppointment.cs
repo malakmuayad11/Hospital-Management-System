@@ -1,6 +1,7 @@
 ﻿using Hospital_Business;
 using System;
 using System.ComponentModel;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Hospital_System.Appointments
@@ -121,7 +122,14 @@ namespace Hospital_System.Appointments
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
-        private void btnSave_Click(object sender, EventArgs e)
+        private async Task _SendSMSConfirmationMessage()
+        {
+            if (await clsGlobal.SendSmsAsync(ctrlPatientInfoWithFilter1.Phone, $"Your appointment with Dr. {ctrlDoctorInfoWithFilter1.DoctorName} has been confirmed for {dtpAppointmentDate.Value.ToString(clsGlobal.DateFormat)} at {dtpAppointmentTime.Value.ToString("HH:mm")}. Thank you!"))
+                MessageBox.Show("Confirmation Message is sent successfully", "Success Confirmation",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private async void btnSave_Click(object sender, EventArgs e)
         {
             if(!this.ValidateChildren())
             {
@@ -130,6 +138,7 @@ namespace Hospital_System.Appointments
             }
             _LoadData();
             _SaveAppointment();
+            await _SendSMSConfirmationMessage();
         }
 
         private void btnClose_Click(object sender, EventArgs e) => this.Close();

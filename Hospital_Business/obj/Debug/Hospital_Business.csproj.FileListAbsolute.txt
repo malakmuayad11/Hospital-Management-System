@@ -9,3 +9,14 @@ C:\Programming\C21\Hospital_Business\obj\Debug\Hospital_Business.csproj.CoreComp
 C:\Programming\C21\Hospital_Business\obj\Debug\Hospital.CD930A4A.Up2Date
 C:\Programming\C21\Hospital_Business\obj\Debug\Hospital_Business.dll
 C:\Programming\C21\Hospital_Business\obj\Debug\Hospital_Business.pdb
+C:\Users\DellUser\Hospital_System\Hospital_Business\bin\Debug\Hospital_Business.dll
+C:\Users\DellUser\Hospital_System\Hospital_Business\bin\Debug\Hospital_Business.pdb
+C:\Users\DellUser\Hospital_System\Hospital_Business\bin\Debug\Hospital_Data.dll
+C:\Users\DellUser\Hospital_System\Hospital_Business\bin\Debug\Krypton.Toolkit.dll
+C:\Users\DellUser\Hospital_System\Hospital_Business\bin\Debug\Hospital_Data.pdb
+C:\Users\DellUser\Hospital_System\Hospital_Business\bin\Debug\Krypton.Toolkit.xml
+C:\Users\DellUser\Hospital_System\Hospital_Business\obj\Debug\Hospital_Business.csproj.AssemblyReference.cache
+C:\Users\DellUser\Hospital_System\Hospital_Business\obj\Debug\Hospital_Business.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\Hospital_System\Hospital_Business\obj\Debug\Hospital.CD930A4A.Up2Date
+C:\Users\DellUser\Hospital_System\Hospital_Business\obj\Debug\Hospital_Business.dll
+C:\Users\DellUser\Hospital_System\Hospital_Business\obj\Debug\Hospital_Business.pdb

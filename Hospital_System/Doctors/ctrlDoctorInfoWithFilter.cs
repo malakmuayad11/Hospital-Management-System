@@ -9,6 +9,9 @@ namespace Hospital_System.Doctors
         public ctrlDoctorInfoWithFilter() => InitializeComponent();
 
         public int DoctorID { get => ctrlDoctorInfo1.DoctorID; }
+
+        public string DoctorName { get => ctrlDoctorInfo1.DoctorName; }
+
         private bool _IsDoctorFound = false;
 
         public event EventHandler<bool> FindDoctor;

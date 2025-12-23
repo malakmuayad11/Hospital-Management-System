@@ -7,3 +7,12 @@ C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.csproj.CoreCompileInput
 C:\Programming\C21\Hospital_Data\obj\Debug\Hospital.0E9D62A3.Up2Date
 C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.dll
 C:\Programming\C21\Hospital_Data\obj\Debug\Hospital_Data.pdb
+C:\Users\DellUser\Hospital_System\Hospital_Data\bin\Debug\Hospital_Data.dll
+C:\Users\DellUser\Hospital_System\Hospital_Data\bin\Debug\Hospital_Data.pdb
+C:\Users\DellUser\Hospital_System\Hospital_Data\bin\Debug\Krypton.Toolkit.dll
+C:\Users\DellUser\Hospital_System\Hospital_Data\bin\Debug\Krypton.Toolkit.xml
+C:\Users\DellUser\Hospital_System\Hospital_Data\obj\Debug\Hospital_Data.csproj.AssemblyReference.cache
+C:\Users\DellUser\Hospital_System\Hospital_Data\obj\Debug\Hospital_Data.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\Hospital_System\Hospital_Data\obj\Debug\Hospital.0E9D62A3.Up2Date
+C:\Users\DellUser\Hospital_System\Hospital_Data\obj\Debug\Hospital_Data.dll
+C:\Users\DellUser\Hospital_System\Hospital_Data\obj\Debug\Hospital_Data.pdb

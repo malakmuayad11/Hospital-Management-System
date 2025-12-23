@@ -75,7 +75,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(955, 588);
+            this.tabControl1.Size = new System.Drawing.Size(1032, 605);
             this.tabControl1.TabIndex = 0;
             // 
             // tpPatientInfo
@@ -83,8 +83,8 @@
             this.tpPatientInfo.Controls.Add(this.ctrlPatientInfoWithFilter1);
             this.tpPatientInfo.Location = new System.Drawing.Point(4, 22);
             this.tpPatientInfo.Name = "tpPatientInfo";
-            this.tpPatientInfo.Padding = new System.Windows.Forms.Padding(3);
-            this.tpPatientInfo.Size = new System.Drawing.Size(960, 562);
+            this.tpPatientInfo.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tpPatientInfo.Size = new System.Drawing.Size(1020, 527);
             this.tpPatientInfo.TabIndex = 0;
             this.tpPatientInfo.Text = "Patient Info";
             this.tpPatientInfo.UseVisualStyleBackColor = true;
@@ -92,6 +92,7 @@
             // ctrlPatientInfoWithFilter1
             // 
             this.ctrlPatientInfoWithFilter1.Location = new System.Drawing.Point(17, 0);
+            this.ctrlPatientInfoWithFilter1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ctrlPatientInfoWithFilter1.Name = "ctrlPatientInfoWithFilter1";
             this.ctrlPatientInfoWithFilter1.Size = new System.Drawing.Size(941, 497);
             this.ctrlPatientInfoWithFilter1.TabIndex = 0;
@@ -102,7 +103,7 @@
             this.tpDoctorInfo.Controls.Add(this.ctrlDoctorInfoWithFilter1);
             this.tpDoctorInfo.Location = new System.Drawing.Point(4, 22);
             this.tpDoctorInfo.Name = "tpDoctorInfo";
-            this.tpDoctorInfo.Padding = new System.Windows.Forms.Padding(3);
+            this.tpDoctorInfo.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
             this.tpDoctorInfo.Size = new System.Drawing.Size(947, 562);
             this.tpDoctorInfo.TabIndex = 1;
             this.tpDoctorInfo.Text = "Doctor Information";
@@ -111,6 +112,7 @@
             // ctrlDoctorInfoWithFilter1
             // 
             this.ctrlDoctorInfoWithFilter1.Location = new System.Drawing.Point(6, 6);
+            this.ctrlDoctorInfoWithFilter1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ctrlDoctorInfoWithFilter1.Name = "ctrlDoctorInfoWithFilter1";
             this.ctrlDoctorInfoWithFilter1.Size = new System.Drawing.Size(933, 530);
             this.ctrlDoctorInfoWithFilter1.TabIndex = 0;
@@ -137,7 +139,7 @@
             this.tpAppointmentInfo.Controls.Add(this.label2);
             this.tpAppointmentInfo.Location = new System.Drawing.Point(4, 22);
             this.tpAppointmentInfo.Name = "tpAppointmentInfo";
-            this.tpAppointmentInfo.Size = new System.Drawing.Size(960, 562);
+            this.tpAppointmentInfo.Size = new System.Drawing.Size(1024, 579);
             this.tpAppointmentInfo.TabIndex = 2;
             this.tpAppointmentInfo.Text = "Appointment Information";
             this.tpAppointmentInfo.UseVisualStyleBackColor = true;
@@ -321,7 +323,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(955, 588);
+            this.ClientSize = new System.Drawing.Size(1032, 605);
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "frmAddEditAppointment";
