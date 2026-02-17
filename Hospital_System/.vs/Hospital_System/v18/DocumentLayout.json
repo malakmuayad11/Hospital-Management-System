@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:main\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14A2D3E0-4C4F-4C40-96A7-1671CC8CE011}|..\\Hospital_Data\\Hospital_Data.csproj|c:\\users\\delluser\\hospital_system\\hospital_data\\clsloggerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A2D3E0-4C4F-4C40-96A7-1671CC8CE011}|..\\Hospital_Data\\Hospital_Data.csproj|c:\\users\\delluser\\hospital_system\\hospital_data\\clsappointmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A2D3E0-4C4F-4C40-96A7-1671CC8CE011}|..\\Hospital_Data\\Hospital_Data.csproj|c:\\users\\delluser\\hospital_system\\hospital_data\\clssettingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E35196-04A6-46FC-B553-AD1F3E264201}|..\\Hospital_Business\\Hospital_Business.csproj|c:\\users\\delluser\\hospital_system\\hospital_business\\clsappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622ADB77-391D-4793-985A-FF652D000987}|Hospital.csproj|C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\appointments\\frmaddeditappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -102,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +126,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLoggerData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Data\\clsLoggerData.cs",
+              "RelativeDocumentMoniker": "..\\Hospital_Data\\clsLoggerData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Data\\clsLoggerData.cs",
+              "RelativeToolTip": "..\\Hospital_Data\\clsLoggerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:22:42.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddEditAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
+              "RelativeDocumentMoniker": "Appointments\\frmAddEditAppointment.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
+              "RelativeToolTip": "Appointments\\frmAddEditAppointment.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAqwH4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:29:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Main\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\clsGlobal.cs",
+              "RelativeToolTip": "Main\\clsGlobal.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAhwGwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:30:09.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAppointmentData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Data\\clsAppointmentData.cs",
+              "RelativeDocumentMoniker": "..\\Hospital_Data\\clsAppointmentData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Data\\clsAppointmentData.cs",
+              "RelativeToolTip": "..\\Hospital_Data\\clsAppointmentData.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:36:52.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-28T12:38:38.918Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "clsSettingData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Data\\clsSettingData.cs",
+              "RelativeDocumentMoniker": "..\\Hospital_Data\\clsSettingData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Data\\clsSettingData.cs",
+              "RelativeToolTip": "..\\Hospital_Data\\clsSettingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:51:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Business\\clsAppointment.cs",
+              "RelativeDocumentMoniker": "..\\Hospital_Business\\clsAppointment.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_Business\\clsAppointment.cs",
+              "RelativeToolTip": "..\\Hospital_Business\\clsAppointment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:34:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ctrlPatientInfoWithFilter.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\ctrlPatientInfoWithFilter.cs",
               "RelativeDocumentMoniker": "Patients\\ctrlPatientInfoWithFilter.cs",
@@ -122,45 +223,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsGlobal.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\clsGlobal.cs",
-              "RelativeDocumentMoniker": "Main\\clsGlobal.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\clsGlobal.cs",
-              "RelativeToolTip": "Main\\clsGlobal.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAUwHEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:30:09.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmAddEditAppointment.cs",
-              "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
-              "RelativeDocumentMoniker": "Appointments\\frmAddEditAppointment.cs",
-              "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
-              "RelativeToolTip": "Appointments\\frmAddEditAppointment.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAwIwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:29:20.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "frmAddEditAppointment.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs",
               "RelativeDocumentMoniker": "Appointments\\frmAddEditAppointment.cs",
               "ToolTip": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAddEditAppointment.cs [Design]",
               "RelativeToolTip": "Appointments\\frmAddEditAppointment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:29:16.368Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-22T14:29:16.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ctrlPatientInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\ctrlPatientInfo.cs",
               "RelativeDocumentMoniker": "Patients\\ctrlPatientInfo.cs",
@@ -171,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "frmAddEditPatient.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\frmAddEditPatient.cs",
               "RelativeDocumentMoniker": "Patients\\frmAddEditPatient.cs",
@@ -182,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ctrlDoctorInfo.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs",
               "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfo.cs",
@@ -194,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ctrlPatientInfoWithFilter.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\ctrlPatientInfoWithFilter.cs",
               "RelativeDocumentMoniker": "Patients\\ctrlPatientInfoWithFilter.cs",
@@ -205,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ctrlPatientInfo.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Patients\\ctrlPatientInfo.cs",
               "RelativeDocumentMoniker": "Patients\\ctrlPatientInfo.cs",
@@ -217,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ctrlDoctorInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfo.cs",
               "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfo.cs",
@@ -228,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ctrlDoctorInfoWithFilter.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfoWithFilter.cs",
               "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfoWithFilter.cs",
@@ -240,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ctrlDoctorInfoWithFilter.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\ctrlDoctorInfoWithFilter.cs",
               "RelativeDocumentMoniker": "Doctors\\ctrlDoctorInfoWithFilter.cs",
@@ -251,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "frmAppointmentInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAppointmentInfo.cs",
               "RelativeDocumentMoniker": "Appointments\\frmAppointmentInfo.cs",
@@ -262,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "frmAppointmentInfo.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Appointments\\frmAppointmentInfo.cs",
               "RelativeDocumentMoniker": "Appointments\\frmAppointmentInfo.cs",
@@ -274,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "frmManageScreenNoAddButton.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
               "RelativeDocumentMoniker": "Main\\frmManageScreenNoAddButton.cs",
@@ -286,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "frmManageScreenNoAddButton.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmManageScreenNoAddButton.cs",
               "RelativeDocumentMoniker": "Main\\frmManageScreenNoAddButton.cs",
@@ -297,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "frmDoctorMainScreen.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
@@ -309,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "frmDoctorMainScreen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmDoctorMainScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmDoctorMainScreen.cs",
@@ -320,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "frmTodaysAppointmentsForDoctor.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Doctors\\frmTodaysAppointmentsForDoctor.cs",
               "RelativeDocumentMoniker": "Doctors\\frmTodaysAppointmentsForDoctor.cs",
@@ -332,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "frmManageScreen.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmManageScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmManageScreen.cs",
@@ -344,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "frmManageScreen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmManageScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmManageScreen.cs",
@@ -355,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "frmMainScreen.cs",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmMainScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmMainScreen.cs",
@@ -367,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "frmMainScreen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DellUser\\Hospital_System\\Hospital_System\\Main\\frmMainScreen.cs",
               "RelativeDocumentMoniker": "Main\\frmMainScreen.cs",

@@ -8,8 +8,6 @@ using System.Net.Mail;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using MailKit.Net.Smtp;
-using MimeKit;
 
 namespace Hospital_System
 {
@@ -111,6 +109,6 @@ namespace Hospital_System
                var response = await client.PostAsync(apiUrl, content);
                return response.IsSuccessStatusCode;
            }
-       }z
+       }
     }
 }
