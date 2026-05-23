@@ -192,7 +192,7 @@ namespace Hospital_System.Appointments
             if (_Mode == enMode.AddNew)
             {
                 dtpAppointmentDate.MinDate = DateTime.Now;
-                dtpAppointmentTime.MinDate = DateTime.Now;
+                dtpAppointmentTime.MinDate = DateTime.Today;
             }
         }
     }
