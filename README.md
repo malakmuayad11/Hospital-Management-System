@@ -30,68 +30,68 @@ Note: This application needs to run in administrator mode to log errors in the e
 ## 📸 Screenshots
 
 ### 🏠 Login Screen
-![Login Screen](screenshots/loginScreen.png)
+![Login Screen](./Screenshots/loginScreen.png)
 
 ### 📱 Main Screen
-![Main Screen](./screenshots/mainScreen.png)
+![Main Screen](./Screenshots/mainScreen.png)
 
 ### 👥 Manage Users
-![Manage Users](./screenshots/manageUsers.png)
+![Manage Users](./Screenshots/manageUsers.png)
 
 ### 👤 Add New User
 
-![Add New User](./screenshots/addNewUser.png)
+![Add New User](./Screenshots/addNewUser.png)
 
 ### 🩺 Manage Doctors
 
-![Manage Doctors](./screenshots/manageDoctors.png)
+![Manage Doctors](./Screenshots/manageDoctors.png)
 
 ### 💉 Schedule Appointment
 
-![Shcedule Appointment - 1](./screenshots/addNewAppointment.png)
+![Shcedule Appointment - 1](./Screenshots/addNewAppointment.png)
 
-![Shcedule Appointment - 2](./screenshots/addNewAppointment2.png)
+![Shcedule Appointment - 2](./Screenshots/addNewAppointment2.png)
 
-![Shcedule Appointment - 3](./screenshots/addNewAppointment3.png)
+![Shcedule Appointment - 3](./Screenshots/addNewAppointment3.png)
 
-![Shcedule Appointment - 4](./screenshots/addNewAppointment4.png)
+![Shcedule Appointment - 4](./Screenshots/addNewAppointment4.png)
 
-![Shcedule Appointment - 5](./screenshots/addNewAppointment5.png)
+![Shcedule Appointment - 5](./Screenshots/addNewAppointment5.png)
 
-![Shcedule Appointment - 6](./screenshots/addNewAppointment6.png)
+![Shcedule Appointment - 6](./Screenshots/addNewAppointment6.png)
 
 ### ⚕️ Manage Medical Records
 
-![Manage Medical Records](./screenshots/manageMedicalRecords.png)
+![Manage Medical Records](./Screenshots/manageMedicalRecords.png)
 
 ### 💲 Manage Payments
 
-![Manage Payments](./screenshots/managePayments.png)
+![Manage Payments](./Screenshots/managePayments.png)
 
 ### 🧑‍⚕️💬 Manage Consultations
 
-![Manage Consultations](./screenshots/manageConsultations.png)
+![Manage Consultations](./Screenshots/manageConsultations.png)
 
 ### 🥼 Logging in as a Doctor:
 
 #### 📱 Main Screen
 
-![Main Screen](./screenshots/doctorMainScreen.png)
+![Main Screen](./Screenshots/doctorMainScreen.png)
 
 #### 💉 Manage Appointments
-![Manage Appointments](./screenshots/doctorManageAppointments.png)
+![Manage Appointments](./Screenshots/doctorManageAppointments.png)
 
 #### 💊 Manage Medical Records
 
-![Manage Medical Records](./screenshots/doctorManageMedicalRecords.png)
+![Manage Medical Records](./Screenshots/doctorManageMedicalRecords.png)
 
 #### ➕💊 Add Medical Record
 
-![Add Medical Record](./screenshots/addMedicalRecord.png)
+![Add Medical Record](./Screenshots/addMedicalRecord.png)
 
 #### ➕ Add Prescription
 
-![Add Prescription](./screenshots/addPrescription.png)
+![Add Prescription](./Screenshots/addPrescription.png)
 
 ## 👩‍💻 Author
 **Malak Muayad**  
