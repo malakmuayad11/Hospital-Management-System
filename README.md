@@ -8,6 +8,8 @@ A Windows desktop application built with C# .NET framework, and SQL Server. The 
 - 💾 Log errors in the event viewer.
 - 📊 Store and retrieve data from SQL Server.
 - 💬 Send appointment confirmation SMS messages using the smsmode API. Note: During development, the integration successfully submits messages and receives tracking IDs, while actual delivery may vary in sandbox environments.
+- 📲 Send reminders for upcoming appointments through SMS messages. This feature is done using the [Hospital_System_Appointment_Reminder_Service
+](https://github.com/malakmuayad11/Hospital_System_Appointment_Reminder_Service).
 
 ## ⬇️ Installation
 Note: This application needs to run in administrator mode to log errors in the event viewer.
