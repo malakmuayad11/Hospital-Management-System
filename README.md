@@ -59,6 +59,7 @@ Note: This application needs to run in administrator mode to log errors in the e
 ![Shcedule Appointment - 5](./Screenshots/addNewAppointment5.png)
 
 ![Shcedule Appointment - 6](./Screenshots/addNewAppointment6.png)
+The confirmation message is an SMS message sent to the patient using the smsdose API.
 
 ### ⚕️ Manage Medical Records
 
