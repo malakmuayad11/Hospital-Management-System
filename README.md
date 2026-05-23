@@ -30,7 +30,7 @@ Note: This application needs to run in administrator mode to log errors in the e
 ## 📸 Screenshots
 
 ### 🏠 Login Screen
-![Login Screen](./screenshots/loginScreen.png)
+![Login Screen](screenshots/loginScreen.png)
 
 ### 📱 Main Screen
 ![Main Screen](./screenshots/mainScreen.png)
